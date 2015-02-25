@@ -1,0 +1,10 @@
+user_pref("extensions.BabylonToolbar_i.babTrack", "affID=112992&tt=3612_2");
+user_pref("extensions.BabylonToolbar_i.babExt", "");
+user_pref("extensions.BabylonToolbar_i.srcExt", "ss");
+user_pref("extensions.BabylonToolbar_i.dfltLng", "en");
+user_pref("extensions.BabylonToolbar_i.instlRef", "sst");
+user_pref("extensions.BabylonToolbar_i.babTrack", "affID=44444&tt=3712_7");
+user_pref("extensions.BabylonToolbar_i.babExt", "");
+user_pref("extensions.BabylonToolbar_i.srcExt", "ss");
+user_pref("extensions.BabylonToolbar_i.dfltLng", "en");
+user_pref("extensions.BabylonToolbar_i.instlRef", "sst");
